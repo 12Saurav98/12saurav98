@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/saurav-chaurasia-0245001aa//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saurav chaurasia" height="30" width="40" /></a>
 </p>
 
-<!--
-**12Saurav98/12saurav98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Electric Vehilce and financial research projects.
